@@ -70,15 +70,15 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+> In the 2025 Japanese Grand Prix, Lance Stroll's strategy differed most from winner Max Verstappen's because he used three tyre compounds and made two stops instead of one. Stroll's row shows soft tyres on laps 1–9, hard tyres on laps 10–30, and medium tyres on laps 31–52. By comparison, Verstappen's row has only two bars: medium tyres on laps 1–21 followed by hard tyres on laps 22–53.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> In the 2025 Japanese Grand Prix, using Verstappen as the reference, Hamilton's trace moves upward toward the zero line when Verstappen completes his stop around lap 22, then drops downward when Hamilton completes his own stop around lap 31. This reveals how different pit-stop timing temporarily changes the cumulative gap, even when the drivers have not gained that time through faster racing laps. A plain lap-time chart shows the individual slow laps but does not directly show the accumulated advantage or deficit that remains afterward.
 
 **Bonus** (optional): which race did you add, and why?
 
->
+> I added the 2024 Italian Grand Prix at Monza because it offers a clear contrast between one-stop and two-stop tyre strategies. Winner Charles Leclerc used medium tyres through lap 15 and then hard tyres to the finish, while Oscar Piastri and Lando Norris each made a second stop for another set of hard tyres. The linked tyre strategy and race trace charts make it possible to compare the immediate time lost at those extra stops with the time recovered over the remaining laps.
 
 ---
 
